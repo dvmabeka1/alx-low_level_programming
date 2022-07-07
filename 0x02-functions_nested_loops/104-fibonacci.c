@@ -26,7 +26,7 @@ printf("%.f", num1);
 
 printf(", %.f", num2);
 
-for (x = 0; x < 96; x++)
+for (x = 0; x < 98; x++)
 
 {
 
