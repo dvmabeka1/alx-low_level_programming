@@ -21,7 +21,7 @@ printf("Infinite loop incoming :(\n");
 
 
 
-i = 20;
+i = 0;
 
 
 
