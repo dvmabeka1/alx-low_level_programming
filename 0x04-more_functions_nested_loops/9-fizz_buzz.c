@@ -49,7 +49,3 @@ for (num = 1; num <= 100; num++)
 return (0);
 
 }
-
-Footer
-
-© 2022 
