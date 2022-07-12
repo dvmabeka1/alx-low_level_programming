@@ -3,26 +3,20 @@
 
 
 /**
-*_strlen- string length calcuator
-*@s: char
-*Return: int
+* _strlen - returns the length of a string.
+* @s: input string.
+* Return: length of a string.
 */
 
 int _strlen(char *s)
 
 {
 
-int count;
+	int count = 0;
 
-while (*s != '\0')
+	while (*(s + count) != '\0')
 
-{
-
-	count++;
-
-	s++;
-
-}
+		count++;
 
 	return (count);
 
