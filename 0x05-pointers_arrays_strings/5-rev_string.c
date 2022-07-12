@@ -16,8 +16,6 @@ void rev_string(char *s)
 
 	char *str, temp;
 
-
-
 	while (count >= 0)
 
 	{
@@ -31,8 +29,6 @@ void rev_string(char *s)
 	}
 
 	str = s;
-
-
 
 	for (i = 0; i < (count - 1); i++)
 
