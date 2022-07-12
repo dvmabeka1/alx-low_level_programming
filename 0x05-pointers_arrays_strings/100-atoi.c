@@ -14,7 +14,9 @@ int _atoi(char *s)
 	int number;
 	int maxnum = 2147483647;
 	int minnum = -2147483648;
+
 	while (*s)
+
 	{
 		if (*s == '-')
 		{
